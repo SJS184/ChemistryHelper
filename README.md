@@ -1,0 +1,2 @@
+# ChemistryHelper
+Solves Chemistry stuff
